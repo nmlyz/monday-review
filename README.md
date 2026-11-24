@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/nmlyz/monday-review/rank.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
 [![reward](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/nmlyz/monday-review/reward.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
 
-A tiny program that writes one funny one-line review of a Monday to a file. The line is 113 characters: eight hours, three meetings about the same meeting, and a lunch break the calendar booked for a fourth meeting.
+A tiny program that writes one funny one-line review of a Monday to a file. The line is 113 characters: eight hours, three meetings about the same meeting, and a lunch break the calendar booked for a fourth meeting. No input, no network, no surprises.
 
 ## Run it
 
